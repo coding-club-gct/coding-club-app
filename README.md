@@ -1,16 +1,5 @@
 # codingclub
 
-A new Flutter project.
+This is the codebase of official app of the Coding Club. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this project, you may need to tweak firebase configs. For furthur details, reach out to us at [Coding Club Discord Server in `#app-development` channel](https://discord.com/channels/1008950812778704897/1009190051130916904)
